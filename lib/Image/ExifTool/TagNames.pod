@@ -8144,6 +8144,8 @@ for details.
     540    FilterSerialNumber                   no
     776    PlanckO                              no
     780    PlanckR2                             no
+    784    RawValueRangeMin                     no
+    786    RawValueRangeMax                     no
     824    RawValueMedian                       no
     828    RawValueRange                        no
     900    DateTimeOriginal                     no
